@@ -1,16 +1,45 @@
-# calculator
+# 🔢 Flutter Web Calculator
 
-A new Flutter project.
+A simple, responsive calculator built using **Flutter Web**.  
+Designed to run directly in the browser with clean UI and core functionality — no installation needed.
 
-## Getting Started
+> 🚀 [Try the Live Demo](https://shamilslk.github.io/Flutter_Calculator/)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> *(Add screenshot here if available)*  
+> ![screenshot](assets/screenshot.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 🧮 Basic arithmetic operations: addition, subtraction, multiplication, division
+- 📱 Responsive UI (works on mobile and desktop browsers)
+- ⚡ Fast and lightweight
+- 🌐 Hosted using GitHub Pages
+
+---
+
+## 🛠 Built With
+
+- [Flutter](https://flutter.dev)  
+- [Dart](https://dart.dev)  
+- [GitHub Pages](https://pages.github.com)
+
+---
+
+## 📂 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/shamilslk/Flutter_Calculator.git
+cd Flutter_Calculator
+
+# Get dependencies
+flutter pub get
+
+# Run in Chrome
+flutter run -d chrome
