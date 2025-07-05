@@ -31,6 +31,13 @@ Designed to run directly in the browser with clean UI and core functionality —
 
 ---
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, copy, modify, and distribute this software, provided that you give appropriate credit to the author.
+
+---
+
 ## 📂 How to Run Locally
 
 ```bash
