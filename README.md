@@ -10,7 +10,7 @@ Designed to run directly in the browser with clean UI and core functionality —
 ## 📸 Screenshot
 
 > *(Add screenshot here if available)*  
-> ![screenshot](assets/screenshot.png)
+> ![screenshot](screenshot.png)
 
 ---
 
