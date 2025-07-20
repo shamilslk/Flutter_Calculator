@@ -3,6 +3,7 @@
 A simple, responsive calculator built using **Flutter Web**.  
 Designed to run directly in the browser with clean UI and core functionality — no installation needed.
 
+If your using phone close the desktop mode.
 > 🚀 [Try the Live Demo](https://shamilslk.github.io/Flutter_Calculator/)
 
 ---
